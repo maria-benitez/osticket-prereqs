@@ -147,4 +147,4 @@ Once osTicket is successfully installed, I can open a new browser window and acc
  </p>
  <br />
 
-I will then continue to post-installation setup in 'Post-Installation Configuration'.
+I will then continue to post-installation setup in [Post-Installation Configuration](https://github.com/maria-benitez/post-install-config).
